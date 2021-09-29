@@ -1,0 +1,27 @@
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: |
+ Thanks for opening this issue, we will get back to you soon!
+
+ **If you looking for beginner-friendly issues, contribute on our other [repository](https://github.com/GDSC-RTU/learning-and-design-resources)**
+ 
+ Tell the world about Google DSC RTU 
+  - [Join Our Chapter](https://gdsc.community.dev/rajasthan-technical-university-kota/)
+  - [Instagram](https://instagram.com/gdsc_rtu)
+  - [LinkedIn](https://linkedin.com/company/dsc-rtu)
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: |
+ Thanks for opening this pull request, we will get back to you soon!
+ **If you looking for beginner-friendly issues, contribute on our other [repository](https://github.com/GDSC-RTU/learning-and-design-resources)**
+
+ Tell the world about Google DSC RTU 
+  - [Join Our Chapter](https://gdsc.community.dev/rajasthan-technical-university-kota/)
+  - [Instagram](https://instagram.com/gdsc_rtu)
+  - [LinkedIn](https://linkedin.com/company/dsc-rtu)
+ 
+ PS: Please add [@ishubham21](https://github.com/ishubham21) as a reviewer if you haven't added.
+ 
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: |
+ Congrats on merging your first pull request!
