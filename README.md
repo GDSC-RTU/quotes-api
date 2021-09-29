@@ -2,6 +2,11 @@
 
 This API is designed to return quotes to the user. 
 
+## Endpoints 
+
+ - / => Will return all the quotes listed in the quotes.json file.
+ - /<id> => id is a variable which returns a quote having that id.
+
 ## Run the application
 
 * Make sure you have NodeJS installed. Check it by typing this command in your terminal - 
