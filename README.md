@@ -40,3 +40,18 @@ localhost:8080
 
 ## Contribution Guidelines
 
+Append your quote to quote.json inside the quote/ folder and raise the PR.
+
+```
+{  
+    "quote":"Your new Quote",
+    "author":"Author of your quote",
+    "id": "+1 the previous id"
+}
+```
+
+### Note : 
+
+ - Please avoid the repetition of quotes.
+ - Do not make any changes in other files.
+ - **Do not repeat the id's**
