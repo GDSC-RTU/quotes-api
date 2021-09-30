@@ -53,5 +53,23 @@
       "quote":"What is not started will never get finished",
       "author":"Johann Wolfgang von Goethe",
       "id": 11
-   }
-]
+   },
+    {  
+      "quote":"Strength does not come from physical capacity. It comes from an indomitable will",
+      "author":"Mahatma Gandhi",
+      "id": 12
+   },
+    {
+      "qoute":"Try not to become a man of success but rather to become a man of value",
+     "author":"Albert Einstein",
+     "id":13
+    }
+    {"qoute":"Everything has beauty, but not everyone sees it",
+     "author":"Confucius",
+     "id":14
+    }
+{"qoute":"Everything negative, pressure, challenges – is all an opportunity for me to rise",
+     "author":"Kobe Bryant",
+     "id":15
+}
+ ]
