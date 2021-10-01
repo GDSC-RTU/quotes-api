@@ -43,6 +43,15 @@ npm run start
 localhost:8080
 ```
 
+### Run within docker
+
+If you are more familiar with Docker, you can also build an image using the Dockerfile and start it:
+
+```
+$ docker build -t quotes-api .
+$ docker run -p 8080:8080 quotes-api
+```
+
 ## Contribution Guidelines
 
 Check [contribution.md](Contributing.md) if you want to learn how to make a contribution. 
