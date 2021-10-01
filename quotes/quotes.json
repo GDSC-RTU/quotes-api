@@ -68,8 +68,13 @@
      "author":"Confucius",
      "id":14
     },
-{"qoute":"Everything negative, pressure, challenges – is all an opportunity for me to rise",
+   {"qoute":"Everything negative, pressure, challenges – is all an opportunity for me to rise",
      "author":"Kobe Bryant",
      "id":15
-}
+   },
+   {
+      "quote":"I am not afraid of storms for I am learning to sail my ship.",
+      "author":"Louisa May Alcott",
+      "id":16
+   }
  ]
