@@ -76,5 +76,25 @@
       "quote":"I am not afraid of storms for I am learning to sail my ship.",
       "author":"Louisa May Alcott",
       "id":16
+   },
+   {
+      "quote":"Life is what happens when you're busy making other plans.",
+      "author":"John Lennon",
+      "id":17
+   },
+   {
+      "quote":"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+      "author":"James Cameron",
+      "id":18
+   },
+   {
+      "quote":"If life were predictable it would cease to be life, and be without flavor.",
+      "author":"Eleanor Roosevelt",
+      "id":19
+   },
+   {
+      "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author":"Nelson Mandela",
+      "id":20
    }
  ]
