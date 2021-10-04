@@ -76,5 +76,10 @@
       "quote":"I am not afraid of storms for I am learning to sail my ship.",
       "author":"Louisa May Alcott",
       "id":16
-   }
+   },
+   {  
+    "quote":"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+    "author":"Warren Buffet",
+    "id": "17"
+   },
  ]
