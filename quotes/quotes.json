@@ -76,5 +76,35 @@
       "quote":"I am not afraid of storms for I am learning to sail my ship.",
       "author":"Louisa May Alcott",
       "id":16
+   },
+   {
+      "quote":"Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author":"Ralph Waldo Emerson",
+      "id":17
+   },
+   {
+      "quote":"You will face many defeats in life, but never let yourself be defeated. ",
+      "author":"Maya Angelou",
+      "id":18
+   },
+   {
+      "quote":"Life is either a daring adventure or nothing at all.",
+      "author":"Helen Keller",
+      "id":19
+   },
+   {
+      "quote":"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author":"Dr. Seuss",
+      "id":20
+   },
+   {
+      "quote":"Life is ours to be spent, not to be saved.",
+      "author":"D. H. Lawrence",
+      "id":21
+   },
+   {
+      "quote":"Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "author":"Winston S. Churchill",
+      "id":22
    }
  ]
