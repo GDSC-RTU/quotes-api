@@ -77,9 +77,17 @@
       "author":"Louisa May Alcott",
       "id":16
    },
+
+   {  
+    "quote":"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+    "author":"Warren Buffet",
+    "id": "17"
+   },
+
    {
       "quote":"Do one thing every day that scares you.",
       "author":"Eleanor Roosevelt",
-      "id":17
+      "id":18
    }
+
  ]
