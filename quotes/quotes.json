@@ -1,4 +1,4 @@
-﻿[     
+[     
    {  
       "quote":"Example is not the main thing in influencing other people; it’s the only thing",
       "author":"Abraham Lincoln",
@@ -77,34 +77,44 @@
       "author":"Louisa May Alcott",
       "id":16
    },
+   {  
+    "quote":"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+    "author":"Warren Buffet",
+    "id": 17
+   },
+   {
+      "quote":"Do one thing every day that scares you.",
+      "author":"Eleanor Roosevelt",
+      "id":18
+   },
    {
       "quote":"Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author":"Ralph Waldo Emerson",
-      "id":17
+      "id":19
    },
    {
       "quote":"You will face many defeats in life, but never let yourself be defeated. ",
       "author":"Maya Angelou",
-      "id":18
+      "id":20
    },
    {
       "quote":"Life is either a daring adventure or nothing at all.",
       "author":"Helen Keller",
-      "id":19
+      "id":21
    },
    {
       "quote":"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
       "author":"Dr. Seuss",
-      "id":20
+      "id":22
    },
    {
       "quote":"Life is ours to be spent, not to be saved.",
       "author":"D. H. Lawrence",
-      "id":21
+      "id":23
    },
    {
       "quote":"Success is not final; failure is not fatal: It is the courage to continue that counts.",
       "author":"Winston S. Churchill",
-      "id":22
+      "id":24
    }
  ]
