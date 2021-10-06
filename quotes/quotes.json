@@ -1,4 +1,4 @@
-﻿[     
+[     
    {  
       "quote":"Example is not the main thing in influencing other people; it’s the only thing",
       "author":"Abraham Lincoln",
@@ -77,7 +77,8 @@
       "author":"Louisa May Alcott",
       "id":16
    },
-    {  
+
+   {  
     "quote":"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
     "author":"Warren Buffet",
     "id": 17
@@ -476,8 +477,7 @@
       "quote": "What is the you that you dreamed of? Who do you see in the mirror? I gotta say..Go on your path..Even if you live for a day..Do something..Put away your weakness.",
       "author":"BTS-(No More Dream)",
       "id":96
-   },
-   {  
+   },   {  
       "quote":"Who are you living for? My heart stopped when I was nine or ten. Put your hand on your heart and ask what your dream was, What it really was.",
       "author":"BTS-(O!RUL8,2?)",
       "id": 97
@@ -511,5 +511,6 @@
       "quote":"You are Beautiful, no matter what they say.",
       "author":" Christina Aguilera-(Beautiful)",
       "id":103
+
    }
 ]
