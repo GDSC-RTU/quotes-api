@@ -43,9 +43,9 @@ To start contributing, follow the following steps:
    ```
 
 10. **Commit your changes .**
-   ```
-   git commit -m "Relevant message"
-   ```
+    ```
+    git commit -m "Relevant message"
+    ```
 
 11. **Push the committed changes in your feature branch to your remote repo.**
     ```
@@ -58,4 +58,4 @@ To start contributing, follow the following steps:
 
 14. **Click on `Create Pull Request`.**
 
-15. **Voila! You have made a PR to the awesome-developer-portfolio project. Sit back patiently and relax while the your PR is reviewed.**
+15. **🎉 Voila! You have made a PR to the awesome-developer-portfolio project. Sit back patiently and relax while the your PR is reviewed.**
