@@ -562,29 +562,39 @@
       "author":"Elon Musk",
       "id":113
    },
-   {
-      "quote":"True knowledge exists in knowing that you know nothing.",
-      "author":"Socrates",
+  {
+      "quote":"Today is hard, tomorrow will be worse, But the day after tomorrow will be sunshine",
+      "author":"Jack Ma",
       "id":114
    },
    {
-      "quote":"There is only one good, knowledge, and one evil, ignorance.",
-      "author":"Socrates",
+      "quote":"When we strive to become better than we are, everything around us becomes better too.",
+      "author":"Paulo Coelho",
       "id":115
    },
-   {
-      "quote":"To find yourself, think for yourself.",
+  {
+      "quote":"True knowledge exists in knowing that you know nothing.",
       "author":"Socrates",
       "id":116
    },
    {
-      "quote":"Education is the kindling of a flame, not the filling of a vessel.",
+      "quote":"There is only one good, knowledge, and one evil, ignorance.",
       "author":"Socrates",
       "id":117
+   },
+   {
+      "quote":"To find yourself, think for yourself.",
+      "author":"Socrates",
+      "id":118
+   },
+   {
+      "quote":"Education is the kindling of a flame, not the filling of a vessel.",
+      "author":"Socrates",
+      "id":119
    }
    ,{
       "quote":"Beware the barrenness of a busy life.",
       "author":"Socrates",
-      "id":118
+      "id":120
    }
 ]
