@@ -591,10 +591,15 @@
       "quote":"Education is the kindling of a flame, not the filling of a vessel.",
       "author":"Socrates",
       "id":119
-   }
-   ,{
+   },
+   {
       "quote":"Beware the barrenness of a busy life.",
       "author":"Socrates",
       "id":120
+   },
+   {
+      "quote": "The best way to predict free future is to create it.",
+      "author": "Abraham Lincoln",
+      "id": 121
    }
 ]
