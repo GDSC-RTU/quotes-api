@@ -1,601 +1,603 @@
-[     
-   {  
-      "quote":"Example is not the main thing in influencing other people; it’s the only thing",
-      "author":"Abraham Lincoln",
+[
+   {
+      "quote": "Example is not the main thing in influencing other people; it’s the only thing",
+      "author": "Abraham Lincoln",
       "id": 1
    },
-   {  
-      "quote":"Associate yourself with people of good quality, for it is better to be alone than in bad company",
-      "author":"Booker T. Washington",
+   {
+      "quote": "Associate yourself with people of good quality, for it is better to be alone than in bad company",
+      "author": "Booker T. Washington",
       "id": 2
    },
-   {  
-      "quote":"Keep away author people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great",
-      "author":"Mark Twain",
+   {
+      "quote": "Keep away author people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great",
+      "author": "Mark Twain",
       "id": 3
    },
-   {  
-      "quote":"There is only one success",
-      "author":"to be able to spend your life in your own way",
+   {
+      "quote": "There is only one success",
+      "author": "to be able to spend your life in your own way",
       "id": 4
    },
-   {  
-      "quote":"You don’t buy a nice car and get rich you get rich and buy a nice car",
-      "author":"Unknown",
+   {
+      "quote": "You don’t buy a nice car and get rich you get rich and buy a nice car",
+      "author": "Unknown",
       "id": 5
    },
-   {  
-      "quote":"Fall seven times, stand up eight",
-      "author":"Japanese Proverb",
+   {
+      "quote": "Fall seven times, stand up eight",
+      "author": "Japanese Proverb",
       "id": 6
    },
-   {  
-      "quote":"One day your life will flash before your eyes. Make sure it is worth watching",
-      "author":"Mooie",
+   {
+      "quote": "One day your life will flash before your eyes. Make sure it is worth watching",
+      "author": "Mooie",
       "id": 7
    },
-   {  
-      "quote":"Whatever the mind can conceive and believe, the mind can achieve",
-      "author":"Dr. Napoleon Hill",
+   {
+      "quote": "Whatever the mind can conceive and believe, the mind can achieve",
+      "author": "Dr. Napoleon Hill",
       "id": 8
    },
-   {  
-      "quote":"I have not failed. I’ve just found 10,000 ways that won’t work",
-      "author":"Thomas Alva Edison",
+   {
+      "quote": "I have not failed. I’ve just found 10,000 ways that won’t work",
+      "author": "Thomas Alva Edison",
       "id": 9
    },
-   {  
-      "quote":"If you ain’t making waves, you ain’t kickin’ hard enough",
-      "author":"Unknown",
+   {
+      "quote": "If you ain’t making waves, you ain’t kickin’ hard enough",
+      "author": "Unknown",
       "id": 10
    },
-   {  
-      "quote":"What is not started will never get finished",
-      "author":"Johann Wolfgang von Goethe",
+   {
+      "quote": "What is not started will never get finished",
+      "author": "Johann Wolfgang von Goethe",
       "id": 11
    },
-    {  
-      "quote":"Strength does not come from physical capacity. It comes from an indomitable will",
-      "author":"Mahatma Gandhi",
+   {
+      "quote": "Strength does not come from physical capacity. It comes from an indomitable will",
+      "author": "Mahatma Gandhi",
       "id": 12
    },
-    {
-      "qoute":"Try not to become a man of success but rather to become a man of value",
-     "author":"Albert Einstein",
-     "id":13
-    },
-    {"qoute":"Everything has beauty, but not everyone sees it",
-     "author":"Confucius",
-     "id":14
-    },
-   {"qoute":"Everything negative, pressure, challenges – is all an opportunity for me to rise",
-     "author":"Kobe Bryant",
-     "id":15
+   {
+      "qoute": "Try not to become a man of success but rather to become a man of value",
+      "author": "Albert Einstein",
+      "id": 13
    },
    {
-      "quote":"I am not afraid of storms for I am learning to sail my ship.",
-      "author":"Louisa May Alcott",
-      "id":16
-   },
-
-   {  
-    "quote":"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
-    "author":"Warren Buffet",
-    "id": 17
+      "qoute": "Everything has beauty, but not everyone sees it",
+      "author": "Confucius",
+      "id": 14
    },
    {
-      "quote":"Do one thing every day that scares you.",
-      "author":"Eleanor Roosevelt",
-      "id":18
+      "qoute": "Everything negative, pressure, challenges – is all an opportunity for me to rise",
+      "author": "Kobe Bryant",
+      "id": 15
    },
    {
-      "quote":"Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author":"Ralph Waldo Emerson",
-      "id":19
+      "quote": "I am not afraid of storms for I am learning to sail my ship.",
+      "author": "Louisa May Alcott",
+      "id": 16
    },
    {
-      "quote":"You will face many defeats in life, but never let yourself be defeated. ",
-      "author":"Maya Angelou",
-      "id":20
+      "quote": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+      "author": "Warren Buffet",
+      "id": 17
    },
    {
-      "quote":"Life is either a daring adventure or nothing at all.",
-      "author":"Helen Keller",
-      "id":21
+      "quote": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "id": 18
    },
    {
-      "quote":"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author":"Dr. Seuss",
-      "id":22
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "id": 19
    },
    {
-      "quote":"Life is ours to be spent, not to be saved.",
-      "author":"D. H. Lawrence",
-      "id":23
+      "quote": "You will face many defeats in life, but never let yourself be defeated. ",
+      "author": "Maya Angelou",
+      "id": 20
    },
    {
-      "quote":"Success is not final; failure is not fatal: It is the courage to continue that counts.",
-      "author":"Winston S. Churchill",
-      "id":24
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "id": 21
    },
-   {  
-    "quote": "Tell me and I forget. Show me and I remember. Let me do and I understand.",
-    "author": "Chinese Proverb",
-    "id":25
+   {
+      "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "id": 22
    },
-   {  
-      "quote":"Your most unhappy customers are your greatest source of learning",
-      "author":"Bill Gates",
-      "id":26
+   {
+      "quote": "Life is ours to be spent, not to be saved.",
+      "author": "D. H. Lawrence",
+      "id": 23
    },
-   {  
-    "quote": "You will regret someday if you don’t do your best now.",
-    "author": "Jeon Jung-kook, BTS",
-    "id":27
+   {
+      "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston S. Churchill",
+      "id": 24
    },
-   {  
-    "quote": "If you want to love others, I think you should love yourself first.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":28
-    },
-   {  
-    "quote":"Impossible only means that you haven’t found the solution yet.",
-    "author": " Anonymous ",
-    "id":29
+   {
+      "quote": "Tell me and I forget. Show me and I remember. Let me do and I understand.",
+      "author": "Chinese Proverb",
+      "id": 25
    },
-   {  
-    "quote": "Even if you’re not perfect, you’re limited edition.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":30
+   {
+      "quote": "Your most unhappy customers are your greatest source of learning",
+      "author": "Bill Gates",
+      "id": 26
    },
-   {  
-    "quote": "You were born to be real, not to be perfect.",
-    "author": "Min Yoon-gi (Suga), BTS",
-    "id":31
-    },
-   {  
-      "quote":"Price is what you pay. Value is what you get.",
-      "author":" Warren Buffet ",
-      "id":32
+   {
+      "quote": "You will regret someday if you don’t do your best now.",
+      "author": "Jeon Jung-kook, BTS",
+      "id": 27
    },
-   {  
-      "quote":"It’s OK to have your eggs in one basket as long as you control what happens to that basket.",
-      "author":" Elon Musk ",
+   {
+      "quote": "If you want to love others, I think you should love yourself first.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 28
+   },
+   {
+      "quote": "Impossible only means that you haven’t found the solution yet.",
+      "author": " Anonymous ",
+      "id": 29
+   },
+   {
+      "quote": "Even if you’re not perfect, you’re limited edition.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 30
+   },
+   {
+      "quote": "You were born to be real, not to be perfect.",
+      "author": "Min Yoon-gi (Suga), BTS",
+      "id": 31
+   },
+   {
+      "quote": "Price is what you pay. Value is what you get.",
+      "author": " Warren Buffet ",
+      "id": 32
+   },
+   {
+      "quote": "It’s OK to have your eggs in one basket as long as you control what happens to that basket.",
+      "author": " Elon Musk ",
       "id": 33
    },
-   {  
-      "quote":"If you don’t find a way to make money while you sleep, you will work until you die.",
-      "author":" Warren Buffet ",
-      "id":34
-   },
-   {  
-    "quote": "Kill them with success, burry them with a smile.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":35
-   },
-   {  
-      "quote":"Everything is theoretically impossible, until it is done.",
-      "author":" Robert A. Heinlein. ",
-      "id":36 
-   },
-   {  
-    "quote": "Living without passion is like being dead.",
-    "author": "Jeon Jung-kook, BTS",
-    "id":37
-   },
-   {  
-      "quote":"The journey of a thousand miles begins with a single step.",
-      "author":" Lao Tzu ",
-      "id":38
-   },
-   {  
-      "quote":"A sense of humor is part of the art of leadership, of getting along with people, of getting things done.",
-      "author":" Dwight D. Eisenhower ",
-      "id":39
-   },
-   {  
-      "quote":"The value of a man should be seen in what he gives and not in what he is able to receive.",
-      "author":" Albert Einstein ",
-      "id":40
-   },
-   {  
-      "quote": "Any woman who understands the problems of running a home will be nearer to understand the problems of running a country.",
-      "author":" Margaret Thatcher ",
-      "id":41
-   },
-   {  
-      "quote":"Face reality as it is, not as it was or as you wish it to be.",
-      "author":" Jack Welch ",
-      "id":42
-   },
-   {  
-    "quote": "Know that the pain will pass. And when it does you will be stronger.",
-    "author": "Park Ji-min, BTS",
-    "id":43
-   },
-   {  
-    "quote": "Maybe I made a mistake yesterday, but yesterday’s me is still me. I am who I am today, with all my faults. Tomorrow I might be a tiny bit wiser, and that’s me, too. These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":44
-    },
-   {  
-      "quote":"The goal of a start-up is not to stay a start-up.",
-      "author":" Bernard Arnault ",
-      "id":45
-   },
-   {  
-      "quote":"Failure is an option here. If things are not failing, you are not innovating enough.",
-      "author":"Elon Musk ",
-      "id":46
-   },
-   {  
-    "quote": "No matter who you are, where you’re from, your skin color, gender identity: Speak yourself.",
-    "author": "Kim Namjoon (RM), BTS",
-    "id":47
-   },
-   {  
-    "quote": "When things get hard, stop for awhile and look back and see how far you’ve come. Don’t forget how rewarding it is.",
-    "author": "Kim Tae-hyung (V), BTS",
-    "id":48
-   },
-   {  
-    "quote": "Team work makes the dream work.",
-    "author": "John Maxwell",
-    "id":49
-    },
-   {  
-      "quote" :"If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
-      "author":" Albert Einstein ",
-      "id":50
-   },
-   {  
-      "quote":" Our virtues and our failures are inseparable, like force and matter. When they separate, man is no more ",
-      "author":" Nikola Tesla ",
-      "id":51
-   },
-   {  
-    "quote": "Never give up on a dream that you’ve been chasing almost your whole life.",
-    "author": "Park Ji-min, BTS",
-    "id":52
-   },
-   {  
-    "quote": "Everyone suffers in their life. There are many sad days. But rather than sad days, we hope to make better days. That’s what makes us live. That’s what makes us dream.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":53
-   },
-   {  
-    "quote": "You’re too young to let the world break you.",
-    "author": "Kim Tae-hyung (V), BTS",
-    "id":54
-    },
-   {  
-      "quote":"I started the site when I was 19. I didn’t know much about business back then.",
-      "author":"– Mark Zuckerberg ",
-      "id":55
-   },
-   {  
-      "quote":"I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.",
-      "author":"– Mark Zuckerberg ",
-      "id":56
-   },
-   {  
-    "quote": "Be what you want to be, not what others want to see.",
-    "author": "Park Ji-min, BTS",
-    "id":57
-   },
-   {  
-    "quote": "Forget what hurt you, but never forget what it taught you.",
-    "author": "Kim Tae-hyung (V), BTS",
-    "id":58
-   },
-   {  
-    "quote": " SILENCE IS GOLDEN. DON’T WASTE TIME.",
-    "author": "Park Ji-min, BTS",
-    "id":59
-    },
-   {  
-    "quote": "You are the leader of your own life.",
-    "author": "Jung Ho-seok (J-Hope), BTS",
-    "id":60
-   },
-   {  
-    "quote": " When we don’t have a boyfriend or girlfriend, we always say, ‘Oh, I’m so lonely. I want a date,’ or something like that. But I think the biggest love we’re all searching for is the love for one’s self.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":61
-    },
-   {  
-      "quote":"You never lose a dream. It just incubates as a hobby.",
-      "author":"Larry Page ",
-      "id":62
-   },
-   {  
-      "quote":"The best investment you can make is in yourself.",
-      "author":" Warren Buffet ",
-      "id":63
-   },
-   {  
-      "quote":"Life’s too short to hang out with people who aren’t resourceful.",
-      "author":" Jeff Bezos",
-      "id":64
-   },
-   {  
-      "quote":"Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
-      "author":" Bill Gates ",
-      "id":65
-   },
-   {  
-    "quote": " THOSE WHO WANT TO LOOK MORE YOUTHFUL SHOULD LIVE LIFE WITH A YOUNG HEART.",
-    "author": "Kim Seok-Jin, BTS",
-    "id":66
-   },
-   {  
-      "quote":"Some people dream of success, while others wake up and work hard at it.",
-      "author":" Mark Zuckerberg ",
-      "id":67
-   },
-   {  
-      "quote":"Think of it as you want it, not as it is.",
-      "author":" Larry Ellison ",
-      "id":68
-   },
-   {  
-      "quote":"To do meaningful work is to contribute – to create value in society.",
-      "author":" Charles Koch ",
-      "id":69
-   },
-   {  
-    "quote": " DON’T GIVE UP ON YOURSELF. TAKE CARE OF YOURSELF AND TAKE CONTROL OF YOUR LIFE.",
-    "author": "Park Ji-min, BTS",
-    "id":70
-    },
-   {  
-      "quote":"Success is a lousy teacher. It seduces smart people into thinking they can’t lose",
-      "author":"Bill Gates ",
-      "id":71
-   },
-   {  
-      "quote":" It’s fine to celebrate success but it is more important to heed the lessons of failure.",
-      "author":"Bill Gates ",
-      "id":72
-   },
-   {  
-    "quote": " I HAVE COME TO LOVE MYSELF FOR WHO I AM, FOR WHO I WAS, AND FOR WHO I HOPE TO BECOME.",
-    "author": "Kim Nam-joon (RM), BTS",
-    "id":73
-   },
-   {  
-    "quote": " WHEN THINGS GET TOUGH, LOOK AT THE PEOPLE WHO LOVE YOU! YOU WILL GET ENERGY FROM THEM.",
-    "author": "Jung Ho-seok (J-Hope), BTS",
-    "id":74
-   },
-   {  
-      "quote":"You must be the change you want to see in the world.",
-      "author":" Mahatma Gandhi ",
-      "id":75
-   },
-   {  
-      "quote":" Arise, Awake and Stop not until the goal is reached ",
-      "author":" Swami Vivekananda. ",
-      "id":76
-   },
-   {  
-      "quote":" We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far ",
-      "author":" Swami Vivekananda. ",
-      "id":77
-   },
-   {  
-      "quote":" All that we are is the result of what we have thought. The mind is everything. What we think we become ",
-      "author":" Gautama Buddha. ",
-      "id":78
-   },
-   {  
-    "quote": "Don’t be trapped in someone else’s dream.",
-    "author": "Kim Tae-hyung (V), BTS",
-    "id":79
+   {
+      "quote": "If you don’t find a way to make money while you sleep, you will work until you die.",
+      "author": " Warren Buffet ",
+      "id": 34
    },
    {
-    "quote": "Go on your path, even if you live for a day.",
-    "author": "BTS-(No-More Dream)",
-    "id":80
+      "quote": "Kill them with success, burry them with a smile.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 35
    },
-   {  
-    "quote": "In the middle of the road, in the moment you want to give up, shout out even louder: So What?",
-    "author": "BTS-(So What)",
-    "id":81
+   {
+      "quote": "Everything is theoretically impossible, until it is done.",
+      "author": " Robert A. Heinlein. ",
+      "id": 36
    },
-   {  
-    "quote": "Who says a dream must be something grand? Just become anybody. We deserve a life. Whatever, big or small, you are you after all.",
-    "author": "BTS-(Paradise)",
-    "id":82
+   {
+      "quote": "Living without passion is like being dead.",
+      "author": "Jeon Jung-kook, BTS",
+      "id": 37
    },
-   {  
-    "quote": "Like an echo in the forest. The day will come back around, as if nothing happened. Yeah, Life goes on.",
-    "author": "BTS -(Life goes on)",
-    "id":83
+   {
+      "quote": "The journey of a thousand miles begins with a single step.",
+      "author": " Lao Tzu ",
+      "id": 38
    },
-   {  
-    "quote": "In the dark dawn, spreading trembling wings. Keep on shining make it brighter than a spotlight.",
-    "author": "BTS-(Dream Glow)",
-    "id":84
+   {
+      "quote": "A sense of humor is part of the art of leadership, of getting along with people, of getting things done.",
+      "author": " Dwight D. Eisenhower ",
+      "id": 39
    },
-   {  
-    "quote": "90% of your worries are just an imaginary swamp that you created.",
-    "author": "BTS-(So What)",
-    "id":85
+   {
+      "quote": "The value of a man should be seen in what he gives and not in what he is able to receive.",
+      "author": " Albert Einstein ",
+      "id": 40
    },
-   {  
-      "quote":"I'm a survivor,I'm not gonna give up,I'm not gonna stop,I'm gonna work harder.",
-      "author":"Destiny's Child -(Survivor) ",
-      "id":86
+   {
+      "quote": "Any woman who understands the problems of running a home will be nearer to understand the problems of running a country.",
+      "author": " Margaret Thatcher ",
+      "id": 41
    },
-   {  
+   {
+      "quote": "Face reality as it is, not as it was or as you wish it to be.",
+      "author": " Jack Welch ",
+      "id": 42
+   },
+   {
+      "quote": "Know that the pain will pass. And when it does you will be stronger.",
+      "author": "Park Ji-min, BTS",
+      "id": 43
+   },
+   {
+      "quote": "Maybe I made a mistake yesterday, but yesterday’s me is still me. I am who I am today, with all my faults. Tomorrow I might be a tiny bit wiser, and that’s me, too. These faults and mistakes are what I am, making up the brightest stars in the constellation of my life.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 44
+   },
+   {
+      "quote": "The goal of a start-up is not to stay a start-up.",
+      "author": " Bernard Arnault ",
+      "id": 45
+   },
+   {
+      "quote": "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "author": "Elon Musk ",
+      "id": 46
+   },
+   {
+      "quote": "No matter who you are, where you’re from, your skin color, gender identity: Speak yourself.",
+      "author": "Kim Namjoon (RM), BTS",
+      "id": 47
+   },
+   {
+      "quote": "When things get hard, stop for awhile and look back and see how far you’ve come. Don’t forget how rewarding it is.",
+      "author": "Kim Tae-hyung (V), BTS",
+      "id": 48
+   },
+   {
+      "quote": "Team work makes the dream work.",
+      "author": "John Maxwell",
+      "id": 49
+   },
+   {
+      "quote": "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
+      "author": " Albert Einstein ",
+      "id": 50
+   },
+   {
+      "quote": " Our virtues and our failures are inseparable, like force and matter. When they separate, man is no more ",
+      "author": " Nikola Tesla ",
+      "id": 51
+   },
+   {
+      "quote": "Never give up on a dream that you’ve been chasing almost your whole life.",
+      "author": "Park Ji-min, BTS",
+      "id": 52
+   },
+   {
+      "quote": "Everyone suffers in their life. There are many sad days. But rather than sad days, we hope to make better days. That’s what makes us live. That’s what makes us dream.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 53
+   },
+   {
+      "quote": "You’re too young to let the world break you.",
+      "author": "Kim Tae-hyung (V), BTS",
+      "id": 54
+   },
+   {
+      "quote": "I started the site when I was 19. I didn’t know much about business back then.",
+      "author": "– Mark Zuckerberg ",
+      "id": 55
+   },
+   {
+      "quote": "I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.",
+      "author": "– Mark Zuckerberg ",
+      "id": 56
+   },
+   {
+      "quote": "Be what you want to be, not what others want to see.",
+      "author": "Park Ji-min, BTS",
+      "id": 57
+   },
+   {
+      "quote": "Forget what hurt you, but never forget what it taught you.",
+      "author": "Kim Tae-hyung (V), BTS",
+      "id": 58
+   },
+   {
+      "quote": " SILENCE IS GOLDEN. DON’T WASTE TIME.",
+      "author": "Park Ji-min, BTS",
+      "id": 59
+   },
+   {
+      "quote": "You are the leader of your own life.",
+      "author": "Jung Ho-seok (J-Hope), BTS",
+      "id": 60
+   },
+   {
+      "quote": " When we don’t have a boyfriend or girlfriend, we always say, ‘Oh, I’m so lonely. I want a date,’ or something like that. But I think the biggest love we’re all searching for is the love for one’s self.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 61
+   },
+   {
+      "quote": "You never lose a dream. It just incubates as a hobby.",
+      "author": "Larry Page ",
+      "id": 62
+   },
+   {
+      "quote": "The best investment you can make is in yourself.",
+      "author": " Warren Buffet ",
+      "id": 63
+   },
+   {
+      "quote": "Life’s too short to hang out with people who aren’t resourceful.",
+      "author": " Jeff Bezos",
+      "id": 64
+   },
+   {
+      "quote": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
+      "author": " Bill Gates ",
+      "id": 65
+   },
+   {
+      "quote": " THOSE WHO WANT TO LOOK MORE YOUTHFUL SHOULD LIVE LIFE WITH A YOUNG HEART.",
+      "author": "Kim Seok-Jin, BTS",
+      "id": 66
+   },
+   {
+      "quote": "Some people dream of success, while others wake up and work hard at it.",
+      "author": " Mark Zuckerberg ",
+      "id": 67
+   },
+   {
+      "quote": "Think of it as you want it, not as it is.",
+      "author": " Larry Ellison ",
+      "id": 68
+   },
+   {
+      "quote": "To do meaningful work is to contribute – to create value in society.",
+      "author": " Charles Koch ",
+      "id": 69
+   },
+   {
+      "quote": " DON’T GIVE UP ON YOURSELF. TAKE CARE OF YOURSELF AND TAKE CONTROL OF YOUR LIFE.",
+      "author": "Park Ji-min, BTS",
+      "id": 70
+   },
+   {
+      "quote": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose",
+      "author": "Bill Gates ",
+      "id": 71
+   },
+   {
+      "quote": " It’s fine to celebrate success but it is more important to heed the lessons of failure.",
+      "author": "Bill Gates ",
+      "id": 72
+   },
+   {
+      "quote": " I HAVE COME TO LOVE MYSELF FOR WHO I AM, FOR WHO I WAS, AND FOR WHO I HOPE TO BECOME.",
+      "author": "Kim Nam-joon (RM), BTS",
+      "id": 73
+   },
+   {
+      "quote": " WHEN THINGS GET TOUGH, LOOK AT THE PEOPLE WHO LOVE YOU! YOU WILL GET ENERGY FROM THEM.",
+      "author": "Jung Ho-seok (J-Hope), BTS",
+      "id": 74
+   },
+   {
+      "quote": "You must be the change you want to see in the world.",
+      "author": " Mahatma Gandhi ",
+      "id": 75
+   },
+   {
+      "quote": " Arise, Awake and Stop not until the goal is reached ",
+      "author": " Swami Vivekananda. ",
+      "id": 76
+   },
+   {
+      "quote": " We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far ",
+      "author": " Swami Vivekananda. ",
+      "id": 77
+   },
+   {
+      "quote": " All that we are is the result of what we have thought. The mind is everything. What we think we become ",
+      "author": " Gautama Buddha. ",
+      "id": 78
+   },
+   {
+      "quote": "Don’t be trapped in someone else’s dream.",
+      "author": "Kim Tae-hyung (V), BTS",
+      "id": 79
+   },
+   {
+      "quote": "Go on your path, even if you live for a day.",
+      "author": "BTS-(No-More Dream)",
+      "id": 80
+   },
+   {
+      "quote": "In the middle of the road, in the moment you want to give up, shout out even louder: So What?",
+      "author": "BTS-(So What)",
+      "id": 81
+   },
+   {
+      "quote": "Who says a dream must be something grand? Just become anybody. We deserve a life. Whatever, big or small, you are you after all.",
+      "author": "BTS-(Paradise)",
+      "id": 82
+   },
+   {
+      "quote": "Like an echo in the forest. The day will come back around, as if nothing happened. Yeah, Life goes on.",
+      "author": "BTS -(Life goes on)",
+      "id": 83
+   },
+   {
+      "quote": "In the dark dawn, spreading trembling wings. Keep on shining make it brighter than a spotlight.",
+      "author": "BTS-(Dream Glow)",
+      "id": 84
+   },
+   {
+      "quote": "90% of your worries are just an imaginary swamp that you created.",
+      "author": "BTS-(So What)",
+      "id": 85
+   },
+   {
+      "quote": "I'm a survivor,I'm not gonna give up,I'm not gonna stop,I'm gonna work harder.",
+      "author": "Destiny's Child -(Survivor) ",
+      "id": 86
+   },
+   {
       "quote": "The morning will come again. No darkness, no season is eternal.",
       "author": "BTS-(Spring Day)",
-      "id":87
+      "id": 87
    },
-   {  
+   {
       "quote": "Follow your dream like breaker. Even if it breaks down, Don’t ever run backwards, never.Because the dawn right before the sun rises is the darkest.",
-      "author":"BTS-(Tomorrow)",
+      "author": "BTS-(Tomorrow)",
       "id": 88
    },
-   {  
-      "quote":"Pain! you break me down, you build me up, believer",
-      "author":"Imagine Dragons-(Believer)",
-      "id":89
+   {
+      "quote": "Pain! you break me down, you build me up, believer",
+      "author": "Imagine Dragons-(Believer)",
+      "id": 89
    },
-   {  
+   {
       "quote": "If you think you’re going to crash, step on the pedal harder. Never mind, never mind, Even if it’s a road of thorns, we still run.",
-      "author":"BTS-(Never Mind)",
-      "id":90
+      "author": "BTS-(Never Mind)",
+      "id": 90
    },
-   {  
+   {
       "quote": "NO better you than the you are, NO better life than the life we're living,NO better time for your shine, you're a star.",
-      "author":"Alessia Cara-(Scars to Your Beautiful)",
-      "id":91
+      "author": "Alessia Cara-(Scars to Your Beautiful)",
+      "id": 91
    },
-   {  
+   {
       "quote": "I still believe, even though it’s unbelievable: To lose your path,Is the way to find that path.",
-      "author":"BTS-(Lost)",
-      "id":92
+      "author": "BTS-(Lost)",
+      "id": 92
    },
-   {  
+   {
       "quote": "If you can’t fly, then run. Today we will survive. If you can’t run, then walk. Today we will survive. If you can’t walk, then crawl.",
-      "author":"BTS-(Not Today)",
-      "id":93
+      "author": "BTS-(Not Today)",
+      "id": 93
    },
-   {  
-      "quote":"I believe in myself; My back hurts in order to let my wings sprout.",
-      "author":"BTS-(Wings)",
-      "id":94
+   {
+      "quote": "I believe in myself; My back hurts in order to let my wings sprout.",
+      "author": "BTS-(Wings)",
+      "id": 94
    },
-   {  
+   {
       "quote": "I worked all night, every day...While you were out clubbing.",
-      "author":"BTS-(Dope)",
-      "id":95
+      "author": "BTS-(Dope)",
+      "id": 95
    },
-   {  
+   {
       "quote": "What is the you that you dreamed of? Who do you see in the mirror? I gotta say..Go on your path..Even if you live for a day..Do something..Put away your weakness.",
-      "author":"BTS-(No More Dream)",
-      "id":96
-   },   {  
-      "quote":"Who are you living for? My heart stopped when I was nine or ten. Put your hand on your heart and ask what your dream was, What it really was.",
-      "author":"BTS-(O!RUL8,2?)",
+      "author": "BTS-(No More Dream)",
+      "id": 96
+   },
+   {
+      "quote": "Who are you living for? My heart stopped when I was nine or ten. Put your hand on your heart and ask what your dream was, What it really was.",
+      "author": "BTS-(O!RUL8,2?)",
       "id": 97
    },
-   {  
+   {
       "quote": "Get up, stand up! Don’t give up the fight!",
-      "author":"Bob Marley (Get Up Stand Up)",
-      "id":98
-   },
-   {  
-      "quote":"Don't give up..You've got a reason to live ..Can't forget you only get ..what you give.",
-      "author":" New Radicals-(You Get What You Give)",
-      "id":99
-   },
-   {  
-      "quote":"And if at first your don't succeed, then dust yourself off and try again!",
-      "author":" Aaliyah-(Try Again)",
-      "id":100 
-   } ,     
-   {  
-      "quote":"In every life we have some trouble. But when you worry, you make it double.",
-      "author":" Bobby McFerrin -(Don’t Worry be Happy)",
-      "id":101
-   },
-   {  
-      "quote":"Work it, make it, do it, makes us: harder, better, faster, stronger",
-      "author":" Daft Punk -(Harder, Better, Faster)",
-      "id":102
-   },
-   {  
-      "quote":"You are Beautiful, no matter what they say.",
-      "author":" Christina Aguilera-(Beautiful)",
-      "id":103
+      "author": "Bob Marley (Get Up Stand Up)",
+      "id": 98
    },
    {
-      "quote":"Weather you think you can or you think you can't,you're probably right.",
-      "author":"Mark Twain",
-      "id":104
+      "quote": "Don't give up..You've got a reason to live ..Can't forget you only get ..what you give.",
+      "author": " New Radicals-(You Get What You Give)",
+      "id": 99
    },
    {
-      "quote":"Happiness can be found, even in the darkest of times, if one only remembers to switch on the light!",
-      "author":"Albus Dumbledore",
-      "id":105
+      "quote": "And if at first your don't succeed, then dust yourself off and try again!",
+      "author": " Aaliyah-(Try Again)",
+      "id": 100
    },
    {
-      "quote":"If someone is trying to bring you down, it only means you're above them.",
-      "author":"Bella Thorne",
-      "id":106
+      "quote": "In every life we have some trouble. But when you worry, you make it double.",
+      "author": " Bobby McFerrin -(Don’t Worry be Happy)",
+      "id": 101
    },
    {
-      "quote":"To focus on what we can do is the most powerful catalyst for growth.",
-      "author":"Gaur Gopal Das",
-      "id":107
+      "quote": "Work it, make it, do it, makes us: harder, better, faster, stronger",
+      "author": " Daft Punk -(Harder, Better, Faster)",
+      "id": 102
    },
    {
-      "quote":"Remember, the moment you accept total responsibility for everything in your life is the moment you claim the power to change anything in your life.",
-      "author":"Hal Elrod, The Miracle Morning",
-      "id":108
+      "quote": "You are Beautiful, no matter what they say.",
+      "author": " Christina Aguilera-(Beautiful)",
+      "id": 103
    },
    {
-      "quote":"If we don’t change, we don’t grow. If we don’t grow, we aren’t really living.",
-      "author":"Diwakar Singh",
-      "id":109
+      "quote": "Weather you think you can or you think you can't,you're probably right.",
+      "author": "Mark Twain",
+      "id": 104
    },
    {
-      "quote":"Beauty is in the eye of the beholder.",
-      "author":"Margaret Hungerford",
-      "id":110
+      "quote": "Happiness can be found, even in the darkest of times, if one only remembers to switch on the light!",
+      "author": "Albus Dumbledore",
+      "id": 105
    },
    {
-      "quote":"Life is what happens to you when you're busy making other plans.",
-      "author":"John Lenon",
-      "id":111
+      "quote": "If someone is trying to bring you down, it only means you're above them.",
+      "author": "Bella Thorne",
+      "id": 106
    },
    {
-      "quote":"Not knowing you can’t do something is sometimes all it takes to do it.",
-      "author":"Ally Carter",
-      "id":112
+      "quote": "To focus on what we can do is the most powerful catalyst for growth.",
+      "author": "Gaur Gopal Das",
+      "id": 107
    },
    {
-      "quote":"If something is important enough, even if the odds are against you, you should still do it.",
-      "author":"Elon Musk",
-      "id":113
-   },
-  {
-      "quote":"Today is hard, tomorrow will be worse, But the day after tomorrow will be sunshine",
-      "author":"Jack Ma",
-      "id":114
+      "quote": "Remember, the moment you accept total responsibility for everything in your life is the moment you claim the power to change anything in your life.",
+      "author": "Hal Elrod, The Miracle Morning",
+      "id": 108
    },
    {
-      "quote":"When we strive to become better than we are, everything around us becomes better too.",
-      "author":"Paulo Coelho",
-      "id":115
-   },
-  {
-      "quote":"True knowledge exists in knowing that you know nothing.",
-      "author":"Socrates",
-      "id":116
+      "quote": "If we don’t change, we don’t grow. If we don’t grow, we aren’t really living.",
+      "author": "Diwakar Singh",
+      "id": 109
    },
    {
-      "quote":"There is only one good, knowledge, and one evil, ignorance.",
-      "author":"Socrates",
-      "id":117
+      "quote": "Beauty is in the eye of the beholder.",
+      "author": "Margaret Hungerford",
+      "id": 110
    },
    {
-      "quote":"To find yourself, think for yourself.",
-      "author":"Socrates",
-      "id":118
+      "quote": "Life is what happens to you when you're busy making other plans.",
+      "author": "John Lenon",
+      "id": 111
    },
    {
-      "quote":"Education is the kindling of a flame, not the filling of a vessel.",
-      "author":"Socrates",
-      "id":119
+      "quote": "Not knowing you can’t do something is sometimes all it takes to do it.",
+      "author": "Ally Carter",
+      "id": 112
    },
    {
-      "quote":"Beware the barrenness of a busy life.",
-      "author":"Socrates",
-      "id":120
+      "quote": "If something is important enough, even if the odds are against you, you should still do it.",
+      "author": "Elon Musk",
+      "id": 113
+   },
+   {
+      "quote": "Today is hard, tomorrow will be worse, But the day after tomorrow will be sunshine",
+      "author": "Jack Ma",
+      "id": 114
+   },
+   {
+      "quote": "When we strive to become better than we are, everything around us becomes better too.",
+      "author": "Paulo Coelho",
+      "id": 115
+   },
+   {
+      "quote": "True knowledge exists in knowing that you know nothing.",
+      "author": "Socrates",
+      "id": 116
+   },
+   {
+      "quote": "There is only one good, knowledge, and one evil, ignorance.",
+      "author": "Socrates",
+      "id": 117
+   },
+   {
+      "quote": "To find yourself, think for yourself.",
+      "author": "Socrates",
+      "id": 118
+   },
+   {
+      "quote": "Education is the kindling of a flame, not the filling of a vessel.",
+      "author": "Socrates",
+      "id": 119
+   },
+   {
+      "quote": "Beware the barrenness of a busy life.",
+      "author": "Socrates",
+      "id": 120
    },
    {
       "quote": "The best way to predict free future is to create it.",
@@ -605,12 +607,12 @@
    {
       "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
       "author": "Anne Frank",
-      "id":122
+      "id": 122
    },
    {
       "quote": "Dead people receive more flowers than the living ones because regret is stronger than gratitude.",
       "author": "Anne Frank",
-      "id":123
+      "id": 123
    },
    {
       "quote": "This life is like a swimming pool. You dive into the water, but you can’t see how deep it is.",
@@ -626,5 +628,10 @@
       "quote": "Cogito, ergo sum.",
       "author": "René Descartes",
       "id": 130
+   },
+   {
+      "quote": "AI will be the best or worst thing ever for humanity!",
+      "author": "Elon Musk",
+      "id": 131
    }
 ]
