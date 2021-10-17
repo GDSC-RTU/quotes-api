@@ -64,7 +64,11 @@
     "author": "Albert Einstein",
     "id": 13
   },
-  { "qoute": "Everything has beauty, but not everyone sees it", "author": "Confucius", "id": 14 },
+  {
+    "qoute": "Everything has beauty, but not everyone sees it",
+    "author": "Confucius",
+    "id": 14
+  },
   {
     "qoute": "Everything negative, pressure, challenges – is all an opportunity for me to rise",
     "author": "Kobe Bryant",
@@ -75,7 +79,6 @@
     "author": "Louisa May Alcott",
     "id": 16
   },
-
   {
     "quote": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
     "author": "Warren Buffet",
