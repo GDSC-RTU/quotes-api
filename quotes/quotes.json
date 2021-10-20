@@ -660,23 +660,23 @@
     "id": 132
   },
   {
-    "quote":"It is not our abilities that make us who we are, it is our CHOICES.",
-    "author":"Albus Dumbledore",
-    "id":133
-  },
-  {
     "quote": "The greatest wealth is to live content with little.",
     "author": "Plato",
-    "id": 134
+    "id": 133
   },
   {
     "quote": "Don’t count the days, make the days count.",
     "author": "Muhammad Ali",
-    "id": 135
+    "id": 134
   },
   {
     "quote": "Not how long, but how well you have lived is the main thing.",
     "author": "Seneca",
-    "id": 136
+    "id": 135
+  },
+  {
+    "quote":"It is not our abilities that make us who we are, it is our CHOICES.",
+    "author":"Albus Dumbledore",
+    "id":136
   }
 ]
