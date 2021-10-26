@@ -690,6 +690,7 @@
     "author": "Bill Bradley",
     "id": 138
   },
+
   {
     "quote": "We’re here to put a dent in the universe. Otherwise why else even be here?",
     "author": "Steve Jobs",
@@ -739,5 +740,10 @@
     "quote": "Your time is limited, so don’t waste it living someone else’s life.",
     "author": "Steve Jobs",
     "id": 148
-  }
+  },
+  {
+    "quote":"Earth provides enough to satisfy every man's need , but not every man's greed.",
+    "author": "Mahatma Gandhi",
+    "id": 149
+  }  
 ]
