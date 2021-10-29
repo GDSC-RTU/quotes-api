@@ -1,4 +1,5 @@
 [
+ 
   {
     "quote": "Example is not the main thing in influencing other people; it’s the only thing",
     "author": "Abraham Lincoln",
@@ -755,5 +756,10 @@
     "quote": "It is very easy to defeat someone , but very difficult to win someone. ",
     "author": "APJ Abdul Kalam",
     "id": 151
+  },
+   {
+    "quote": "The average men consume. The wise create",
+    "author": "Maxime Lagacé",
+    "id": 152
   }
 ]
