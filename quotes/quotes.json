@@ -761,10 +761,16 @@
     "quote": "The average men consume. The wise create",
     "author": "Maxime Lagacé",
     "id": 152
-  }
+  },
  {
     "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
     "author": "Albert Einstein",
     "id": 153
+  },
+  {
+    "quote":"I think 99 times and find nothing. I stop thinking, swim in silence, and the truth comes to me.",
+    "author":"Albert Einstein",
+    "id":154
   }
+  
 ]
