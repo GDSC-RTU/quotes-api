@@ -761,10 +761,15 @@
     "quote": "The average men consume. The wise create",
     "author": "Maxime Lagacé",
     "id": 152
-  }
+  },
  {
     "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
     "author": "Albert Einstein",
     "id": 153
+  },
+{
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "author": "Albert Einstein",
+    "id": 154
   }
 ]
