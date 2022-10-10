@@ -1,4 +1,4 @@
-[     
+﻿[     
    {  
       "quote":"Example is not the main thing in influencing other people; it’s the only thing",
       "author":"Abraham Lincoln",
@@ -546,6 +546,11 @@
       "quote":"Many of life’s failures are people who did not realize how close they were to success when they gave up.",
       "author":"Thomas A. Edison",
       "id":110
+  },
+  {  
+      "quote":"If you can't get a miracle, become one.",
+      "author":"Nick Vujicic",
+      "id":111
   }
   
 
